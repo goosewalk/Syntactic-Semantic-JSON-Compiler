@@ -138,7 +138,7 @@ if __name__ == "__main__":
     global errors
     errors = []
     input_string = ""
-    json_location = "sample inputs\input1.json" 
+    json_location = "sample inputs scanner\input1.json" 
     output_location = "output.txt"
 
     with open(json_location, 'r') as file:

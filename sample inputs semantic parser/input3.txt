@@ -1,0 +1,21 @@
+<{>
+<STRING, name>
+<:>
+<STRING, joe>
+<,>
+<STRING, age>
+<:>
+<NUMBER, ..3.14159e100.-eE5>
+<,>
+<STRING, isStudent>
+<:>
+<NULL, null>
+<,>
+<STRING, courses>
+<:>
+<[>
+<STRING, true>
+<,>
+<STRING, false>
+<]>
+<}>

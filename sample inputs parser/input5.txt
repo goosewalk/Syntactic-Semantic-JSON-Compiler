@@ -1,0 +1,17 @@
+<{>
+<NUMBER, 1234>
+<:>
+<STRING, test>
+<,>
+<:>
+<,>
+<STRING, syntax errors not scanner!>
+<:>
+<NUMBER, 3>
+<:>
+<:>
+<,>
+<STRING, 123456>
+<:>
+<STRING, ya>
+<}>

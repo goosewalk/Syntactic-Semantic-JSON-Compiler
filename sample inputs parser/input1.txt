@@ -1,0 +1,21 @@
+<{>
+<STRING, name>
+<:>
+<STRING, joe>
+<,>
+<STRING, age>
+<:>
+<NUMBER, 30>
+<,>
+<STRING, isStudent>
+<:>
+<BOOL_FALSE, false>
+<,>
+<STRING, courses>
+<:>
+<[>
+<STRING, Math>
+<,>
+<STRING, Science>
+<]>
+<}>

@@ -1,0 +1,21 @@
+<{>
+<,>
+<,>
+<,>
+<:>
+<:>
+<[>
+<]>
+<{>
+<}>
+<,>
+<BOOL_TRUE, true>
+<,>
+<BOOL_FALSE, false>
+<,>
+<NULL, null>
+<,>
+<STRING, hey>
+<,>
+<NUMBER, 1234>
+<}>

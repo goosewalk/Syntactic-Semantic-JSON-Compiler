@@ -1,0 +1,19 @@
+<{>
+<STRING, test>
+<:>
+<[>
+<NUMBER, 1>
+<,>
+<NUMBER, 2>
+<,>
+<NUMBER, 3>
+<,>
+<NUMBER, 4>
+<]>
+<]>
+<]>
+<,>
+<STRING, linebreak>
+<:>
+<STRING, yeah\ndoesitwork?>
+<}>
